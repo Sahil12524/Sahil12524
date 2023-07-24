@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ?
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil12524)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil12524&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,linux)](https://skillicons.dev)
 <!---
