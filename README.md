@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil12524
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning .NET, C#
+- 🌱 I’m currently learning .NET, C#, C++
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me ?
 
