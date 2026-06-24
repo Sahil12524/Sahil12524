@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning .NET, C#, C++, C, ASM
 - 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me: sahilshailu7977460287@gmail.com
+- 📫 How to reach me: hello@sahilbhandari.uk
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil12524&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
